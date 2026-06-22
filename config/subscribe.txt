@@ -2,14 +2,14 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+# https://gongdian.top/tv/iptv/
 https://gongdian.top/tv/develop202
 https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
 https://raw.githubusercontent.com/pxiptv/live/refs/heads/main/iptv.m3u
-https://iptv.b2og.com/all.m3u
-https://iptv.b2og.com/o_all.m3u
 https://live.zbds.top/tv/iptv4.m3u
 
-# https://gongdian.top/tv/iptv/
+# https://iptv.b2og.com/all.m3u
+# https://iptv.b2og.com/o_all.m3u
 # https://iptv.b2og.com/all.m3u
 # https://iptv.b2og.com/o_all.m3u
 
