@@ -2,7 +2,6 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://gongdian.top/tv/iptv/
 https://gongdian.top/tv/develop202
 https://bit.ly/suxuang
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8
@@ -10,16 +9,14 @@ https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
 https://raw.githubusercontent.com/pxiptv/live/refs/heads/main/iptv.m3u
 https://cdn.jsdelivr.net/gh/maitel2020/iptv-self-use@main/iptv.m3u
 https://cdn.jsdelivr.net/gh/vicjl/myIPTV@master/IPTV-all.m3u
-https://iptv.b2og.com/all.m3u
-https://iptv.b2og.com/o_all.m3u
 https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 https://live.zbds.top/tv/iptv4.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u
 
-
-
-
+# https://gongdian.top/tv/iptv/
+# https://iptv.b2og.com/all.m3u
+# https://iptv.b2og.com/o_all.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
